@@ -1,0 +1,59 @@
+.h-100 {
+    height: 100% !important;
+    flex-grow: 1;
+}
+
+.card {
+    border: none !important;
+}
+
+.border-1 {
+    border-radius: 1rem;
+}
+
+.border-2 {
+    border-radius: 2rem;
+}
+
+.border-white {
+    border: 8px solid #FFFFFF;
+}
+
+.border-dark {
+    border: 8px solid #003b2b;
+}
+
+.icon {
+    width: 80px;
+}
+
+.z-100 {
+    z-index: 99;
+}
+
+.image-100 {
+    width: 80%;
+}
+
+.image-100s {
+    width: 100%;
+}
+
+.opacity-5 {
+    opacity: 0.5;
+}
+
+.bottom-0 {
+    bottom: 0;
+}
+
+.separator-1 {
+    margin-bottom: -1rem;
+    min-width: 500px;
+    overflow: hidden;
+}
+
+.separator-2 {
+    // margin-bottom: -2rem;
+    width: 100%;
+}
