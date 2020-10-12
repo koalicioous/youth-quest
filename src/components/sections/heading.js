@@ -35,8 +35,8 @@ export default function Heading()
                     </div>
                 </div>
                 <div className="row justify-content-center align-items-center mt-3">
-                    <div className="col-md-4 mt-3 flex-grow-1">
-                        <div className="card card-body shadow border-1 py-5 d-flex flex-column align-items-center">
+                    <div className="col-md-4 mt-3 flex-grow-1 text-center">
+                        <div className="card card-body shadow border-1 py-5 d-flex flex-column align-items-center scalable">
                             <img src={Registration} alt="" className="icon"/>
                             <div className="font-weight-bold text-center text-quest-dark mt-3">
                                 PENDAFTARAN
@@ -49,8 +49,8 @@ export default function Heading()
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4 mt-3 flex-grow-1">
-                        <div className="card card-body shadow border-1 py-5 d-flex flex-column align-items-center">
+                    <div className="col-md-4 mt-3 flex-grow-1 text-center">
+                        <div className="card card-body shadow border-1 py-5 d-flex flex-column align-items-center scalable">
                             <img src={Essay} alt="" className="icon" />
                             <div className="font-weight-bold text-center text-quest-dark mt-3">
                                 PENGUMPULAN ESSAY
@@ -63,8 +63,8 @@ export default function Heading()
                             </div>
                         </div>
                     </div>
-                    <div className="col-md-4 mt-3">
-                        <div className="card card-body shadow border-1 py-5 d-flex flex-column align-items-center">
+                    <div className="col-md-4 mt-3 text-center">
+                        <div className="card card-body shadow border-1 py-5 d-flex flex-column align-items-center scalable">
                             <img src={Announcement} alt="" className="icon" />
                             <div className="font-weight-bold text-center text-quest-dark mt-3">
                                 PENGUMUMAN PEMENANG

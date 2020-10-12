@@ -4,7 +4,7 @@ import '../../styles/scss/benefit.scss'
 export default function Benefit()
 {
     return (
-        <div className="benefit mt-5">
+        <div className="benefit mt-5 mb-3">
             <div className="container">
                 <div className="row justify-content-center align-items-center">
                     <div className="col-md-12">
@@ -42,7 +42,7 @@ export default function Benefit()
                         </div>
                     </div>
                 </div>
-                <div className="row justify-content-center align-items-center mt-5">
+                <div className="row justify-content-center align-items-center mt-3">
                     <div className="col-md-12">
                         <div className="card card-body shadow d-flex flex-wrap align-items-center justify-content-center border-1">
                             <div className="row">

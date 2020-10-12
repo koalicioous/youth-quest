@@ -10,6 +10,8 @@ import Story2 from '../components/sections/story-2'
 import Timeline from '../components/sections/timeline'
 import Pendaftaran from '../components/sections/pendaftaran'
 import Benefit from '../components/sections/benefit'
+import Rundown from '../components/sections/rundown'
+import Bottom from '../components/sections/bottom-cta'
 
 export default function Home() {
   return (
@@ -20,6 +22,8 @@ export default function Home() {
         <Timeline />
         <Pendaftaran />
         <Benefit />
+        <Rundown />
+        <Bottom />
       </Wrapper>
     )
 }

@@ -20,7 +20,7 @@ export default function Pendaftaran()
                 </div>
                 <div className="row justify-content-center align-items-center mt-2">
                     <div className="col-md-4 text-center">
-                        <img src={Tokyo} className="image-100 border-dark border-2" alt="" />
+                        <img src={Tokyo} className="image-100 border-dark border-2 scalable" alt="" />
                         <div className="headline-title-2 text-quest-dark mt-3">
                             Paket Tokyo
                         </div>
@@ -29,7 +29,7 @@ export default function Pendaftaran()
                         </div>
                     </div>
                     <div className="col-md-4 text-center">
-                        <img src={Kyoto} className="image-100 border-dark border-2" alt="" />
+                        <img src={Kyoto} className="image-100 border-dark border-2 scalable" alt="" />
                         <div className="headline-title-2 text-quest-dark mt-3">
                             Paket Kyoto - Osaka
                         </div>

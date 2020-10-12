@@ -12,7 +12,7 @@ export default function Story2()
                 <div className="dropdown-divider py-5 opacity-5"></div>
                 <div className="row justify-content-center align-items-center">
                     <div className="col-md-6 text-center py-5">
-                        <img src={Image} alt="" className="image-100 border-2 shadow border-white" />
+                        <img src={Image} alt="" className="image-100 border-2 shadow border-white scalable" />
                     </div>
                     <div className="col-md-6 py-5 px-3">
                         <div className="headline-title-1 text-white my-3 text-center">
