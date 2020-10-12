@@ -14,7 +14,17 @@
     align-items: center;
 }
 
+.horizontal-menu li a {
+    color: #003b2b;
+}
+
+.horizontal-menu li a:hover {
+    color: #00cc96;
+    text-decoration: none;
+}
+
 .navbar {
     position: absolute;
     width: 100%;
 }
+

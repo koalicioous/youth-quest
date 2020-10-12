@@ -6,7 +6,7 @@ import Separator from '../../img/separator-5.svg'
 export default function Bottom()
 {
     return (
-        <div className="bottom-cta py-3 bg-quest-dark position-relative">  
+        <div className="bottom-cta py-3 bg-quest-dark position-relative" id="contact">  
             <img src={Separator} alt="" className="separator-5" />          
             <div className="container">
                 <div className="row justify-content-center align-items-center">

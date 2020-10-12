@@ -24,7 +24,7 @@ export default function Pendaftaran()
                         <div className="headline-title-2 text-quest-dark mt-3">
                             Paket Tokyo
                         </div>
-                        <div className="headline-subtitle-1">
+                        <div className="bg-orange border-2 py-2 mt-3 mx-3">
                             Biaya Pendaftaran: Rp100.000
                         </div>
                     </div>
@@ -33,7 +33,7 @@ export default function Pendaftaran()
                         <div className="headline-title-2 text-quest-dark mt-3">
                             Paket Kyoto - Osaka
                         </div>
-                        <div className="headline-subtitle-1">
+                        <div className="bg-orange border-2 py-2 mt-3 mx-3">
                             Biaya Pendaftaran: Rp50.000
                         </div>
                     </div>

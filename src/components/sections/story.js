@@ -4,7 +4,7 @@ import '../../styles/scss/story.scss'
 export default function Story()
 {
     return (
-        <div className="story">
+        <div className="story" id="about">
             <div className="container py-5 px-3">
                 <div className="row justify-content-center align-items-center">
                     <div className="col-md-6">
